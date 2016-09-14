@@ -1,7 +1,8 @@
 ## git-intro
 [curriculum] files and resources for Metrics and Data Visualization I - SVA-DSI
 
-<img src = "images/octocats.png" alt="aure" align="right" height="550" width="8750"/>
+<img src = "images/octocats.png" alt="aure" align="right" width="100%"/>
+
 
 ### description
 
